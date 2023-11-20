@@ -14,7 +14,7 @@ module.exports = {
         filename: "[name].js",
         sourceMapFilename: "[name].js.map",
         path: path.resolve(__dirname, "WebResources/scripts/"),
-        library: ["niw"],
+        library: ["ds"],
         libraryTarget: "var",
     },
     module: {

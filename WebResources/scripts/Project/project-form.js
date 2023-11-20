@@ -1,4 +1,4 @@
-var niw;
+var ds;
 /******/ (() => { // webpackBootstrap
 /******/ 	"use strict";
 var __webpack_exports__ = {};
@@ -15,7 +15,7 @@ class Project {
     }
 }
 
-niw = __webpack_exports__;
+ds = __webpack_exports__;
 /******/ })()
 ;
 //# sourceMappingURL=project-form.js.map
